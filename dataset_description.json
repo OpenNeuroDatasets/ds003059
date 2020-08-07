@@ -1,0 +1,12 @@
+{
+  "Name": "Neural correlates of the LSD experience revealed by multimodal neuroimaging",
+  "BIDSVersion": "1.4.0",
+  "DatasetType": "derivative",
+  "Authors":[
+    "Robin Carhart-Harris et al."
+],
+  "HowToAcknowledge": "Please cite this paper: https://www.pnas.org/content/113/17/4853.short"
+}
+
+
+
